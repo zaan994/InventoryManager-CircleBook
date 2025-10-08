@@ -32,8 +32,7 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/inventory-manager.git
-cd inventory-manager
+git clone https://github.com/zaan994/InventoryManager-CircleBook.git
 
 or 
 
@@ -87,7 +86,7 @@ The app should now be running on:
 
 ## 🎥 Demo Video
 
-🔗 [Watch the Demo Video on Google Drive](https://drive.google.com/your-demo-link-here)
+🔗 https://drive.google.com/file/d/1GAVvGOx15hqiqA_11X3x_i_tzo7rY-0c/view?usp=sharing
 
 ---
 
